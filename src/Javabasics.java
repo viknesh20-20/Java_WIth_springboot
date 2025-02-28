@@ -10,7 +10,9 @@ public class Javabasics {
         a = sc.nextInt();
         System.out.println(a);
 
-
+//check even or not
+//palindrome or not
+//dvisible by 5 or not
 //        short sh = 1234;
 //        byte bv = 12;
 //        long lg = 12365463845678932l;
